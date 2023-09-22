@@ -1,12 +1,12 @@
 <?php
 
-//Default password is "root" with md5 hash
+//Default password is "root" with md5 hash 1
 //No "/" at the end of outputFolder or logfolder
 
 return array(
 	"bin" => "/usr/local/bin/youtube-dl",
 	"security" => true,
-	"password" => "63a9f0ea7bb98050796b649e85481845",
+	"password" => "96672a4795eeba76c4b98ddab5f3092f",
 	"outputFolder" => "downloads",
 	"extracter" => "ffmpeg",
 	"log" => true,
